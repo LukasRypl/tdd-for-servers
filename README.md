@@ -1,7 +1,7 @@
 # TDD for servers infrastructures
 
 Slides and additional materials for "TDD for server infrastructure"
-presentation.
+presentation. Recorded talk can be found at https://youtu.be/N8hABgQzf8c
 
 To use Vagrantfile in tests/02_demo, you'll need:
 
